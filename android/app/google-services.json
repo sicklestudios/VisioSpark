@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "641705341272",
+    "project_id": "visio-f5660",
+    "storage_bucket": "visio-f5660.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:641705341272:android:912c8271603d9ef469b52d",
+        "android_client_info": {
+          "package_name": "com.example.safewalk"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "641705341272-8j2jgn22585fq3d3tc64ftkafdmmtkks.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC4J32qzbuIHlQOpj1Jj8vkZgNnPWAVzck"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "641705341272-8j2jgn22585fq3d3tc64ftkafdmmtkks.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
